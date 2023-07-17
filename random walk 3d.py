@@ -30,7 +30,7 @@ def update_lines(num, walks1, lines):
 num_steps = 200
 walks =  random_walk(num_steps)
 '''
-#Animation
+
 fig = plt.figure()
 ax = fig.add_subplot(projection="3d")
 lines = [ax.plot([], [], [])[0] for _ in walks]
