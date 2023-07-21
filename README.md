@@ -11,7 +11,7 @@ Stochastics process (Python)
 
 ### :notebook: Notebooks
 
-The course contents will also be available as Jupyter notebooks (Soon). Open, edit and run these notebooks either
+The course contents will also be available as Jupyter notebooks. Open, edit and run these notebooks either
 
 
 ### :speech_balloon: Chat room
@@ -24,9 +24,7 @@ The course contents will also be available as Jupyter notebooks (Soon). Open, ed
 
 ### :tada: Extra resources
 
-#### :computer: 
-
-Example notebook: 
+#### :computer: Example notebook: 
 
 #### :books: Free External Resources      
       
