@@ -3,33 +3,23 @@
 Introduction aux processus stochastiques (Python)
 ================================================================================
 
-[![Build Status](https://github.com/boisgera/control-engineering-with-python/workflows/build/badge.svg)](https://github.com/AhlamOUARDI/Proj_interne) [![Join the chat at https://gitter.im/control-engineering-with-python/community](https://badges.gitter.im/control-engineering-with-python/community.svg)](https://gitter.im/control-engineering-with-python/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+### 📖 Cours
 
-### : Cours : 
-
- **Introduction to Control Engineering** (30 min)
-    ([HTML](https://boisgera.github.io/control-engineering-with-python/intro.html),
-     [PDF](https://www.dropbox.com/scl/fi/n2o6ys4butl77ptmt8cpo/Projet_interne_AO.pdf?rlkey=424ifmoavlfffzpnzyk4ak5xf&dl=0))
+ **Introduction to Control Engineering** (5j)
+    ([PDF](https://www.dropbox.com/scl/fi/n2o6ys4butl77ptmt8cpo/Projet_interne_AO.pdf?rlkey=424ifmoavlfffzpnzyk4ak5xf&dl=0))
 
 ### :notebook: Notebooks
 
-The course contents are also available as Jupyter notebooks. 
-Open, edit and run these notebooks either
-
-  - :cloud: in the cloud: [open project with Binder][CEIP-binder] or
-
-  - :computer: on your computer: [follow the instructions](install.md).
-
-[CEIP-binder]: https://mybinder.org/v2/gh/boisgera/control-engineering-with-python/gh-pages
+Ce cours va être aussi disponible (prochainement) sous la forme d'un Jupyter notebooks. 
 
 ### :speech_balloon: Chat room
 
   - :speech_balloon: [Join the chat room](https://app.gitter.im/#/room/!PvsQArzmyqPQbXxuKx:gitter.im) (GitHub sign-in required)
  
-### :rocket: Project
+### :rocket: Projet (Solution)
 
-  - :octocat:  Use this [template project](https://github.com/boisgera/control-engineering-with-python-project) as a starting point.
+  - :octocat:  
 
 ### :tada: Extra resources
 
