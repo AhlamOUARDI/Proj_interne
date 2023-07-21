@@ -24,6 +24,9 @@ The course contents will also be available as Jupyter notebooks. Open, edit and 
 
 ### :tada: Extra resources
 
+ - Install [Anaconda Python 3.x distribution](https://www.anaconda.com/distribution/)
+ - Follow [instruction](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository )  
+
 #### :computer: Example notebook: 
 
 #### :books: Free External Resources      
