@@ -6,7 +6,7 @@ Stochastics process (Python)
 
 ### 📖 Course
 
- **Introduction to stochastics process** (5j)
+ **Introduction to stochastics process** 
     ([PDF](https://www.dropbox.com/scl/fi/n2o6ys4butl77ptmt8cpo/Projet_interne_AO.pdf?rlkey=424ifmoavlfffzpnzyk4ak5xf&dl=0))
 
 ### :notebook: Notebooks
