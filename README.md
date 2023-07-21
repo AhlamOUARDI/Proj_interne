@@ -27,8 +27,6 @@ The course contents will also be available as Jupyter notebooks. Open, edit and 
  - Install [Anaconda Python 3.x distribution](https://www.anaconda.com/distribution/)
  - Follow [instruction](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository )  
 
-#### :computer: Example notebook: 
-
 #### :books: Free External Resources      
       
   - :book: [Chafaï– Recueil De Modeles Aleatoires](https://www.dropbox.com/scl/fi/t0vewfeu1qpyf62j8lvr4/Chafa-Recueil-De-Modeles-Aleatoires.pdf?rlkey=9lelp36f2kkyfouwirn4h0ooe&dl=0)
