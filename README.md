@@ -7,7 +7,7 @@ Stochastics process (Python)
 ### 📖 Course
 
  **Introduction to stochastics process** 
-    ([PDF](https://www.dropbox.com/scl/fi/n2o6ys4butl77ptmt8cpo/Projet_interne_AO.pdf?rlkey=424ifmoavlfffzpnzyk4ak5xf&dl=0))
+    ([PDF](https://www.dropbox.com/scl/fi/to38c3ks6znkypbz94i49/pi_AOUARDI.pdf?rlkey=akmrrmnq1m0p5cxj1zb2a3kfl&st=oobcug5l&dl=0))
 
 ### :notebook: Notebooks
 
